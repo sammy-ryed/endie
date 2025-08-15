@@ -1,5 +1,3 @@
-
-
 class Converter {
 
     int toOctal(int n) {
