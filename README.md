@@ -4,7 +4,7 @@ endie is a java GUI based encryption-decryption tool which can change those risk
 
 ## How to use
 
-Copy the EncryptGUI.java file and use it in your favourite code editor.
+Copy the EncryptGUI.java and Encrypt file and use it in your favourite code editor.
 
 
 ##  Features
