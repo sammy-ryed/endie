@@ -2,8 +2,9 @@
 
 endie is a java GUI based encryption-decryption tool which can change those risky texts to bunch of numbers and alphabets;)
 
+## Demo
+https://github.com/user-attachments/assets/66a4aa29-ada0-43c8-85ea-77077aef47c1
 ## How to use
-
 Copy the EncryptGUI.java and Encrypt file and use it in your favourite code editor.
 
 
